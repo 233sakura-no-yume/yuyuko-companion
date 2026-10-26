@@ -1,0 +1,10 @@
+{
+  "name": "yuyuko-companion",
+  "version": "0.1.0",
+  "description": "Yuyuko in a pane beside the chat, reacting to what Claude is doing (like Codex pets).",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "233sakura-no-yume"
+  },
+  "license": "MIT"
+}

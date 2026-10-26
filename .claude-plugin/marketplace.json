@@ -1,0 +1,6 @@
+{
+  "name": "yuyuko-companion",
+  "description": "Yuyuko in a pane beside the Claude Code chat, reacting to what Claude is doing.",
+  "owner": { "name": "233sakura-no-yume" },
+  "plugins": [{ "name": "yuyuko-companion", "source": "./" }]
+}
